@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Maximilien
+@author: Maximilien Houel
 """
 
 import os
